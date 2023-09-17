@@ -13,6 +13,8 @@ _Create a GitHub Action and use it in a workflow._
 
 </header>
 
+This line added by GlobalCompe on Sept 16, 2023.
+
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
